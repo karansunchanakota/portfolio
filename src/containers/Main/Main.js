@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import './Main.css'
-// import About from '../../views/About/About'
+import About from '../../views/About/About'
 // import Contact from '../../views/Contact/Contact'
 // import CareerTimeline from '../../views/CareerTimeline/CareerTimeline'
 // import Experience from '../../views/Experience/Experience'
@@ -30,7 +30,7 @@ const Main = () => {
                     {/* <img className="rightArrow" src={ rightArrow } />     */}
                 </a>
             </div>
-            {/* <About /> */}
+            <About />
             {/* <Experience /> */}
             {/* <CareerTimeline />
             <Projects />

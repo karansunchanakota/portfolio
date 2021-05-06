@@ -35,7 +35,6 @@
     width: 100%;
 }
 .navbar__items a {
-    width: 100% !important;
     color: #ffffff;
     font-family: revert;
     padding-top: 0.5rem;
@@ -43,9 +42,10 @@
     padding-left: 3rem;
     font-size: 1rem;
     cursor: pointer;
-    display: inline-block;
+    display: block;
     font-weight: 300;
     line-height: 1.5rem;
+    text-decoration: none;
 }
 
 .navbar__items a:hover{
