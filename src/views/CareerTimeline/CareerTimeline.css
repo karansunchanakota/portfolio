@@ -1,0 +1,153 @@
+.career__timeline {
+  min-height: 100vh;
+  background-color: #bde7ffc9;
+}
+
+.career__timeline h2 {
+  color: #3d3d3d;
+  font-size: 2.5rem;
+  font-weight: 400;
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.career__timeline__underline {
+  width: 5rem;
+  text-align: center;
+  background-color: #3d3d3d;
+  height: 0.25rem;
+  margin-bottom: 1rem;
+}
+
+.career__timeline__container {
+  min-height: calc(100vh - 2rem);
+  background-color: #ffffff;
+  margin: 1rem 4rem;
+  border-radius: 0.75rem;
+}
+
+.timeline li:before {
+  flex: 0;
+}
+
+.timeline li.work__history:before {
+  padding: 0.5rem;
+}
+
+.timeline__list {
+  /* display: flex;
+  flex-wrap: wrap; */
+  padding: 0rem 3rem;
+}
+
+.timeline__dot__title {
+  background-color: #bde7ffc9 !important;
+}
+
+.timeline__dot {
+  background-color: #ffffff !important;
+}
+
+.timeline__opposite__content {
+  display: flex;
+  flex-direction: column;
+  flex: 0 !important;
+  padding: 0.35rem 0.5rem 0.35rem 0rem !important;
+  font-size: 0.75rem;
+  font-weight: 500;
+  min-width: 9rem;
+}
+
+.timeline__content__title {
+  min-height: 7rem;
+  padding-top: 1.2rem !important;
+}
+
+.timeline__content__title h6 {
+  font-size: 1rem;
+}
+
+.timeline__content {
+  display: flex;
+  align-items: center;
+  position: relative;
+  padding: 0rem 0rem 1.5rem 0.125rem !important;
+  /* bottom: 1rem; */
+}
+
+.timeline__paper {
+  margin: 0.25rem 0.75rem 0rem 1rem;
+  padding: 0rem 1rem;
+  /* padding: 1rem; */
+  width: 100%;
+  min-height: fit-content;
+  box-shadow: 0px 2px 1px -1px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(0 0 0 / 12%) !important;
+}
+
+.timeline__paper .job__info {
+  display: flex;
+  flex-direction: column;
+  padding: 0.75rem 1rem 1rem 1rem;
+  min-height: fit-content;
+}
+
+.timeline__paper .job__info h6 {
+  color: #3d3d3d;
+  font-size: 0.95rem;
+  margin-bottom: 0.4rem;
+  font-weight: 390;
+}
+
+.timeline__paper .job__info span {
+  font-size: 0.85rem;
+}
+
+.timeline__paper .job__info i {
+  font-size: 0.85rem;
+}
+.timeline__paper .job__info p {
+  max-width: 18rem;
+  font-size: 0.8rem;
+  margin-top: 0 5rem;
+  margin-bottom: 0rem;
+}
+
+.timeline__paper .job__info ul {
+  font-size: 0.85rem;
+  list-style-type: disc;
+  padding-left: 1rem;
+}
+
+.timeline__paper .job__info ul li{
+  padding-bottom: 0.25rem;
+}
+
+.timeline__paper__reverse {
+  display: flex;
+  padding: 1rem;
+  width: fit-content;
+  min-height: fit-content;
+  float: right;
+}
+
+.timeline__paper .degree__info {
+  display: flex;
+  flex-direction: column;
+  /* padding: 0.5rem; */
+  width: fit-content;
+  min-height: fit-content;
+}
+
+.timeline__paper .degree__info h6 {
+  font-size: 0.95rem;
+  margin-bottom: 0.4rem;
+}
+
+.timeline__paper .degree__info span {
+  font-size: 0.85rem;
+}
+.timeline__paper .degree__info i {
+  font-size: 0.85rem;
+}

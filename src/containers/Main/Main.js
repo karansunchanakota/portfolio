@@ -1,8 +1,8 @@
 import React, { useEffect } from 'react'
 import './Main.css'
 import About from '../../views/About/About'
+import CareerTimeline from '../../views/CareerTimeline/CareerTimeline'
 // import Contact from '../../views/Contact/Contact'
-// import CareerTimeline from '../../views/CareerTimeline/CareerTimeline'
 // import Experience from '../../views/Experience/Experience'
 // import Projects from '../../views/Projects/Projects'
 // import Skills from '../../views/Skills/Skills'
@@ -31,9 +31,9 @@ const Main = () => {
                 </a>
             </div>
             <About />
+            <CareerTimeline />
             {/* <Experience /> */}
-            {/* <CareerTimeline />
-            <Projects />
+            {/* <Projects />
             <Skills />
             <Contact /> */}
         </div>
