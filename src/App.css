@@ -1,3 +1,7 @@
+.app {
+  display: flex;
+  min-height: 100vh ! important;
+}
 .App {
   text-align: center;
 }

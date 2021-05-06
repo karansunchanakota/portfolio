@@ -1,10 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './containers/Navbar/Navbar'
+import Main from './containers/Main/Main'
 
 function App() {
   return (
-    <div className="App" style={{fontSize:"1rem", color:"#ffffff", backgroundColor:"#000000"}}>
-      Karan Sunchanakota Portfolio
+    <div className="app">
+      <Navbar />
+      <Main />
     </div>
   );
 }
