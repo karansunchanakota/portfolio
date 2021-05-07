@@ -4,9 +4,8 @@ import About from '../../views/About/About'
 import CareerTimeline from '../../views/CareerTimeline/CareerTimeline'
 import Projects from '../../views/Projects/Projects'
 import Skills from '../../views/Skills/Skills'
-// import Contact from '../../views/Contact/Contact'
+import Contact from '../../views/Contact/Contact'
 import $ from 'jquery'
-// import rightArrow from '../../images/rightArrow.svg'
 import { ArrowForward } from '@material-ui/icons';
 const Main = () => {
     useEffect(() => {
@@ -32,7 +31,7 @@ const Main = () => {
             <CareerTimeline />
             <Projects />
             <Skills />
-            {/* <Contact /> */}
+            <Contact />
         </div>
     )
 }
