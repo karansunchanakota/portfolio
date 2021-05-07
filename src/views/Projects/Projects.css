@@ -1,0 +1,50 @@
+.projects {
+    min-height: 100vh;
+    background-color: #bdffcfc9
+}
+
+.projects__cards {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.projects__container {
+    min-height: calc(100vh - 2rem);
+    background-color: #ffffff;
+    margin: 1rem 4rem;
+    border-radius: 0.75rem;
+}
+
+.projects__card {
+    width: 22rem;
+    max-width: 23rem;
+}
+
+.projects__card__content {
+    min-height: 11.5rem;
+}
+
+.projects h2 {
+    color: #3d3d3d;
+    font-size: 2.5rem;
+    font-weight: 400;
+    padding-top: 2rem;
+    padding-bottom: 0rem;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.projects__underline {
+    width: 8rem;
+    text-align: center;
+    background-color: #3d3d3d;
+    height: 0.25rem;
+    margin-bottom: 1rem;
+}
+
+.projects__git__link {
+
+}

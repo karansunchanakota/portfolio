@@ -2,9 +2,8 @@ import React, { useEffect } from 'react'
 import './Main.css'
 import About from '../../views/About/About'
 import CareerTimeline from '../../views/CareerTimeline/CareerTimeline'
+import Projects from '../../views/Projects/Projects'
 // import Contact from '../../views/Contact/Contact'
-// import Experience from '../../views/Experience/Experience'
-// import Projects from '../../views/Projects/Projects'
 // import Skills from '../../views/Skills/Skills'
 import $ from 'jquery'
 // import rightArrow from '../../images/rightArrow.svg'
@@ -27,14 +26,12 @@ const Main = () => {
                 <a dest="about" className="page__link know__more">
                     Know more about my work
                     <ArrowForward className="rightArrow" />
-                    {/* <img className="rightArrow" src={ rightArrow } />     */}
                 </a>
             </div>
             <About />
             <CareerTimeline />
-            {/* <Experience /> */}
-            {/* <Projects />
-            <Skills />
+            <Projects />
+            {/* <Skills />
             <Contact /> */}
         </div>
     )
