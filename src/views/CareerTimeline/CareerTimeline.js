@@ -6,7 +6,7 @@ import amazonLogo from '../../images/timeline/amazonLogo.png'
 import mtuLogo from '../../images/timeline/mtuLogo.png'
 import cvrLogo from '../../images/timeline/cvrLogo.jpg'
 import { Timeline, TimelineItem, TimelineSeparator, TimelineConnector, TimelineContent, TimelineOppositeContent, TimelineDot } from '@material-ui/lab'
-import { Modal, Paper } from '@material-ui/core'
+import { Paper } from '@material-ui/core'
 
 const CareerTimeline = () => {
     const [fiiModal, setFiiModal] = useState(false);

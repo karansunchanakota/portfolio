@@ -3,8 +3,8 @@ import './Main.css'
 import About from '../../views/About/About'
 import CareerTimeline from '../../views/CareerTimeline/CareerTimeline'
 import Projects from '../../views/Projects/Projects'
+import Skills from '../../views/Skills/Skills'
 // import Contact from '../../views/Contact/Contact'
-// import Skills from '../../views/Skills/Skills'
 import $ from 'jquery'
 // import rightArrow from '../../images/rightArrow.svg'
 import { ArrowForward } from '@material-ui/icons';
@@ -31,8 +31,8 @@ const Main = () => {
             <About />
             <CareerTimeline />
             <Projects />
-            {/* <Skills />
-            <Contact /> */}
+            <Skills />
+            {/* <Contact /> */}
         </div>
     )
 }

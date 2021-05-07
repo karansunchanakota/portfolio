@@ -1,0 +1,95 @@
+.skills {
+    min-height: 100vh;
+    background-color: #f1ffbdc9
+}
+
+.skills h2 {
+    color: #3d3d3d;
+    font-size: 2.5rem;
+    font-weight: 400;
+    padding-top: 2rem;
+    padding-bottom: 0rem;
+    text-align: center;
+    font-family: sans-serif;
+    margin-bottom: 0.3rem;
+}
+
+.skills__underline {
+    width: 5rem;
+    text-align: center;
+    background-color: #3d3d3d;
+    height: 0.25rem;
+    margin-bottom: 1rem;
+}
+
+.skills__container {
+    /* border: 1px solid #d4d4d4; */
+    min-height: calc(100vh - 2rem);
+    background-color: #ffffff;
+    margin: 1rem 4rem;
+    border-radius: 0.75rem;
+}
+
+.all__skills {
+    border: 0rem !important;
+    padding: 0rem 1rem 1rem 1rem;
+    box-shadow: 0px 0px 0px 0px rgb(0 0 0), 0px 0px 0px 0px rgb(0 0 0), 0px 0px 0px 0px rgb(0 0 0) !important;
+    margin-left: 1rem;
+}
+
+.skills__card {
+    border: 0rem !important;
+    width: 50%;
+    margin-right: 1rem;
+    box-shadow: 0px 0px 0px 0px rgb(0 0 0), 0px 0px 0px 0px rgb(0 0 0), 0px 0px 0px 0px rgb(0 0 0) !important;
+}
+
+.skills__card h5{
+    padding: 0.5rem;
+    color: #666666;
+}
+
+.skills__card__header {
+    padding: 0.25rem 0.75rem!important;
+    background-color: #ffffff !important;
+    border-bottom: 1px solid #00000022;
+    margin-bottom: 0.5rem;
+}
+
+.skills__card__body {
+    padding: 0.25rem !important;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.skills__card__graph__body{
+    margin-top: 1rem;
+}
+
+.skills__with__graph {
+    display: flex;
+}
+
+.skills_single {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 0.7rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.skills_icons_card {
+    border: 0rem !important;
+    box-shadow: 0px 0px 0px 0px rgb(0 0 0), 0px 0px 0px 0px rgb(0 0 0), 0px 0px 0px 0px rgb(0 0 0) !important;
+}
+
+.skills_icons {
+    width: 4rem;
+    height: 4rem;
+    padding: 0.25rem;
+}
+
+/* .MuiPaper-elevation1 {
+    box-shadow: 0px 0px 0px 0px rgb(0 0 0), 0px 0px 0px 0px rgb(0 0 0 ), 0px 0px 0px 0px rgb(0 0 0) !important;
+}  */
