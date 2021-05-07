@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2751322e.chunk.css",
-    "main.js": "/portfolio/static/js/main.769f736d.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.769f736d.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.390c6bba.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.390c6bba.js.map",
-    "static/js/2.cf2d9321.chunk.js": "/portfolio/static/js/2.cf2d9321.chunk.js",
-    "static/js/2.cf2d9321.chunk.js.map": "/portfolio/static/js/2.cf2d9321.chunk.js.map",
-    "static/js/3.7e201b95.chunk.js": "/portfolio/static/js/3.7e201b95.chunk.js",
-    "static/js/3.7e201b95.chunk.js.map": "/portfolio/static/js/3.7e201b95.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.1a7cefdc.chunk.css",
+    "main.js": "/portfolio/static/js/main.6a30d997.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6a30d997.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.4169069e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.4169069e.js.map",
+    "static/js/2.2199bdcf.chunk.js": "/portfolio/static/js/2.2199bdcf.chunk.js",
+    "static/js/2.2199bdcf.chunk.js.map": "/portfolio/static/js/2.2199bdcf.chunk.js.map",
+    "static/js/3.473d77e8.chunk.js": "/portfolio/static/js/3.473d77e8.chunk.js",
+    "static/js/3.473d77e8.chunk.js.map": "/portfolio/static/js/3.473d77e8.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.2751322e.chunk.css.map": "/portfolio/static/css/main.2751322e.chunk.css.map",
-    "static/js/2.cf2d9321.chunk.js.LICENSE.txt": "/portfolio/static/js/2.cf2d9321.chunk.js.LICENSE.txt",
+    "static/css/main.1a7cefdc.chunk.css.map": "/portfolio/static/css/main.1a7cefdc.chunk.css.map",
+    "static/js/2.2199bdcf.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2199bdcf.chunk.js.LICENSE.txt",
+    "static/media/crudProject.031b83ee.png": "/portfolio/static/media/crudProject.031b83ee.png",
     "static/media/cvrLogo.f6702abb.jpg": "/portfolio/static/media/cvrLogo.f6702abb.jpg",
     "static/media/Main.css": "/portfolio/static/media/karan.3e834715.jpg",
-    "static/media/karanDP.e0ac8d14.png": "/portfolio/static/media/karanDP.e0ac8d14.png"
+    "static/media/karanDP.e0ac8d14.png": "/portfolio/static/media/karanDP.e0ac8d14.png",
+    "static/media/netflixProject.09d88a7a.jpg": "/portfolio/static/media/netflixProject.09d88a7a.jpg",
+    "static/media/phishingProject.09fb12bd.png": "/portfolio/static/media/phishingProject.09fb12bd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.390c6bba.js",
-    "static/js/2.cf2d9321.chunk.js",
-    "static/css/main.2751322e.chunk.css",
-    "static/js/main.769f736d.chunk.js"
+    "static/js/runtime-main.4169069e.js",
+    "static/js/2.2199bdcf.chunk.js",
+    "static/css/main.1a7cefdc.chunk.css",
+    "static/js/main.6a30d997.chunk.js"
   ]
 }
